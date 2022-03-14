@@ -1,0 +1,33 @@
+Image shape:  (346, 346, 3)
+Image size:  359148
+Clustering...
+Fitting model ...
+Red...
+Initialization 0
+Initialization converged: True
+Green
+Initialization 0
+Initialization converged: True
+Blue
+Initialization 0
+Initialization converged: True
+Predicting data ...
+
+Header Size: 226.0B
+	CENTER_COUNT_COUNT: 1
+	CENTER_COUNT: 1
+	HEIGHT: 2
+	WIDTH: 2
+	CENTER ALIASING: 640
+	ONE CENTER PAGE: 4
+
+Body Size: 116.9KiB
+	ONE PIXEL: 8 bits
+	ONE ROW: 2768 bits
+	ONE COLUMN: 2768 bits
+
+Total Size: 117.1KiB
+Naive Size: 350.7KiB
+Compression Ratio: 2.9943x
+Weighted PSNR: 19.573056814112633
+BPS: 8.0151
